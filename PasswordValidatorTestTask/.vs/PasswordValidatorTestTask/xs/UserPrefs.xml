@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{97CB1A4C-1104-4AFB-AD1C-2E40506F4882}|Default">
-  <MonoDevelop.Ide.ItemProperties.PasswordValidatorTestTask FirstBuild="True" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sasha/Projects/PasswordValidatorTestTask/PasswordValidatorTestTask/PasswordValidatorTestTask/Program.cs" relfile="Program.cs" line="10" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.PasswordValidatorTestTask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="10" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PasswordValidatorTestTask" expanded="True">
+            <Node name="PasswordValidatorTestTask" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
